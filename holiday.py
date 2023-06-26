@@ -1,5 +1,3 @@
-cd
-
 
 #user input destination and validations for the inputs
 while True:
